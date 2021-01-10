@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Landing page for natours",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass sass/main.scss css/style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shantd9/natours.git"
+  },
+  "author": "Shant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shantd9/natours/issues"
+  },
+  "homepage": "https://github.com/shantd9/natours#readme",
+  "dependencies": {
+    "sass": "^1.32.2"
+  }
+}
